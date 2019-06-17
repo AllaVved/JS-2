@@ -1,0 +1,27 @@
+body {
+    background: #ADFF2F;
+    width: 90%;
+    margin: 0 auto;
+}
+
+header {
+    height: 80px;
+}
+
+.cart-button {
+    margin: 2% 80%;
+}
+
+div .goods-item {
+    display: inline-block;
+    width: 28%;
+    text-align: center;
+    border: double #4B0082;
+    margin: 2% 2%;
+}
+
+.image {
+    height: 200px;
+    background: #008000;
+    margin: 2% 2%;
+}
