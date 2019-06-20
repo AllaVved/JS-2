@@ -6,6 +6,7 @@ body {
 
 header {
     height: 80px;
+    border-bottom: double #4B0082;
 }
 
 .cart-button {
@@ -14,14 +15,14 @@ header {
 
 div .goods-item {
     display: inline-block;
-    width: 28%;
+    width: 200px;
     text-align: center;
     border: double #4B0082;
     margin: 2% 2%;
+    padding: 10px;
 }
 
 .image {
     height: 200px;
     background: #008000;
-    margin: 2% 2%;
 }
